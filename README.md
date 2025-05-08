@@ -1,2 +1,2 @@
 # CnsReader
-Cns Reader
+Cns Reader Tester
